@@ -29,8 +29,24 @@ __그렇기 때문에 한글문서 번역입니다.__
 owner에게 허락을 받으면 비로소 커뮤니티에서 해당 공식문서 레포를 clone 한다음에 공식문서 도메인에 kr를 붙이는 식으로 한글화를 진행합니다.  
 중국어나 스페인어, 프랑스어는 인구가 많기 때문에 번역이 활발하게 이루어지고 있지만 한국어는 아직 github의 중요성을 잘 모르고 spring 공부만 하고 있기 때문에 기여나 번역에 큰 관심이 없는 경우가 대다수입니다.  
 
-한글문서 번역은 진입 장벽이 낮으면서 처음 github contributor가 될 수 있는 최고의 경험입니다.  
-저는 여러분들이 한글 문서 번역을 통해서 github 생태계에 입문을 할 수 있었으면 좋겠습니다.
+한글문서 번역은 진입 장벽이 낮으면서 처음 github contributor가 될 수 있는 최고의 경험입니다. 
+저는 여러분들이 이 레포를 통해서 한글 문서 번역을 접하고, github 생태계에 입문을 할 수 있었으면 좋겠습니다.
 
 # Repository List
-## 
+## [Angular 한글 문서 번역](https://github.com/angular/angular)
+![image](https://github.com/user-attachments/assets/d08ba1e4-3212-4411-9a11-881d10f82842)
+## [Swift 한글 문서 번역](https://github.com/bbiguduk/Swift_language_guide_kr)
+![image](https://github.com/user-attachments/assets/fb63e752-2a15-4bf0-82f2-f70249a5f374)
+## [Mdn 한글 문서 번역](https://github.com/mdn/translated-content)
+![image](https://github.com/user-attachments/assets/b11acb13-ff41-4b63-865c-d0a1d40580c0)
+## [Next.js 한글 문서 번역](https://github.com/luciancah/nextjs-ko)
+![image](https://github.com/user-attachments/assets/85fa5e8a-80ff-4a79-acfb-d007cfd37a99)
+## [Pytorch 한국어 튜토리얼](https://github.com/PyTorchKorea/tutorials-kr)
+![image](https://github.com/user-attachments/assets/a35744ba-e297-4859-8c9e-7330871ea88c)
+## [React.js 한글 문서 번역](https://github.com/reactjs/ko.react.dev)
+![image](https://github.com/user-attachments/assets/abb37420-d2cb-4c3f-9384-59d87bbb7671)
+## [Rust 한글 문서 번역](https://github.com/rust-kr/doc.rust-kr.org)
+![image](https://github.com/user-attachments/assets/1ceee870-bd4e-4823-b363-0533b16c847d)
+## [Vue.js 한글 문서 번역](https://github.com/vuejs-translations/docs-ko)
+![image](https://github.com/user-attachments/assets/37052255-a74b-4ec4-a1e7-7c5e1fe0e122)
+
