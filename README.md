@@ -46,7 +46,7 @@ owner에게 허락을 받으면 비로소 커뮤니티에서 해당 공식문서
 ## [React.js 한글 문서 번역](https://github.com/reactjs/ko.react.dev)
 ![image](https://github.com/user-attachments/assets/abb37420-d2cb-4c3f-9384-59d87bbb7671)
 ## [Rust 한글 문서 번역](https://github.com/rust-kr/doc.rust-kr.org)
-![image](https://github.com/user-attachments/assets/1ceee870-bd4e-4823-b363-0533b16c847d)
+![image](https://github.com/user-attachments/assets/8bec4041-8ddd-4b14-9708-8677b80246ec)
 ## [Vue.js 한글 문서 번역](https://github.com/vuejs-translations/docs-ko)
 ![image](https://github.com/user-attachments/assets/37052255-a74b-4ec4-a1e7-7c5e1fe0e122)
 
