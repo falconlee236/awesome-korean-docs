@@ -37,6 +37,8 @@ owner에게 허락을 받으면 비로소 커뮤니티에서 해당 공식문서
 # Repository List
 ## [Angular 한글 문서 번역](https://github.com/angular/angular)
 ![image](https://github.com/user-attachments/assets/9777d7e2-007e-4025-85c2-389a5eae5c8b)
+## [C++ 핵심 가이드라인 한글화 프로젝트](https://github.com/CppKorea/CppCoreGuidelines)
+![image](https://github.com/user-attachments/assets/db76d1ac-7dac-4ec0-a562-7bfcb45c1b32)
 ## [Swift 한글 문서 번역](https://github.com/bbiguduk/Swift_language_guide_kr)
 ![image](https://github.com/user-attachments/assets/fb63e752-2a15-4bf0-82f2-f70249a5f374)
 ## [Mdn 한글 문서 번역](https://github.com/mdn/translated-content)
