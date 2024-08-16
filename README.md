@@ -47,8 +47,12 @@ owner에게 허락을 받으면 비로소 커뮤니티에서 해당 공식문서
 ![image](https://github.com/user-attachments/assets/a35744ba-e297-4859-8c9e-7330871ea88c)
 ## [React.js 한글 문서 번역](https://github.com/reactjs/ko.react.dev)
 ![image](https://github.com/user-attachments/assets/abb37420-d2cb-4c3f-9384-59d87bbb7671)
+## [Redux 한글 문서 번역](https://github.com/deminoth/redux)
+![image](https://github.com/user-attachments/assets/680b77a7-d5ff-400b-9b57-f6af0e762191)
 ## [Rust 한글 문서 번역](https://github.com/rust-kr/doc.rust-kr.org)
 ![image](https://github.com/user-attachments/assets/8bec4041-8ddd-4b14-9708-8677b80246ec)
+## [Typescript 한글 문서 번역](https://github.com/typescript-kr/typescript-kr.github.io)
+![image](https://github.com/user-attachments/assets/6a2a5003-3cc5-4003-a453-568f43ba9030)
 ## [Vue.js 한글 문서 번역](https://github.com/vuejs-translations/docs-ko)
 ![image](https://github.com/user-attachments/assets/37052255-a74b-4ec4-a1e7-7c5e1fe0e122)
 
