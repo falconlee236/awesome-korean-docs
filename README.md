@@ -1,5 +1,7 @@
 # awesome-korean-docs
-이 레포지토리는 현재 github에서 활발하게 contribution이 이루어지고 있는 공식문서 한글화 번역 레포들을 큐레이션 한 것입니다.
+이 레포지토리는 현재 github에서 활발하게 contribution이 이루어지고 있는 공식문서 한글화 번역 레포들을 큐레이션 한 것입니다.  
+
+__레포에 star는 개발자를 춤추게 합니다 plz__
 ## Why Contribution?
 github 관리는 개발자에게 필수입니다.  
 잘 작성한 100개의 resume보다 잘 관리된 github 1개가 개발자들에게 더욱 좋은 인상을 심습니다.  
